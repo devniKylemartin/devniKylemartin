@@ -1,6 +1,6 @@
 # Hi there! 👋🏻
 
-I'm Kairu. Aspiring Fullstack Developer in the Philippines.
+I'm Kyle Martin(Kairu). Aspiring Fullstack Developer in the Philippines.
 
 Currently pursuing a Bachelor of Science in Information Technology, where I'm developing my skills in software and web development.
 

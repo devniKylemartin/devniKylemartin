@@ -21,7 +21,7 @@ I enjoy building responsive websites, learning modern technologies, and turning 
 - I like cats 🐈
 - I don't like coffee ☕
 - My hobbies are gaming, reading, and planning things.
-- My favorite game is Assassin's Creed 🎮
+- My favorite game is Assassin's Creed. 🎮
 
 View my portfolio:
 <!--
